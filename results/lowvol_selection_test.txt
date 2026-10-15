@@ -1,0 +1,6 @@
+8000 low-volume markets sampled; max vol 24997.75845
+k=1 vol 5-25k: n=1508 underdog win 0.220 vs implied 0.234 roi -0.097
+k=3 vol 5-25k: n=1424 underdog win 0.209 vs implied 0.232 roi -0.137
+k=7 vol 5-25k: n=684 underdog win 0.187 vs implied 0.239 roi -0.264
+
+[exited with code 0]

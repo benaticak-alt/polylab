@@ -1,0 +1,19 @@
+CAP=$200/market, quoting 1.0c from mid; 190 markets scored
+
+pool $5-20/day: n= 57  our share median 81.3%  $/day median 4.64 mean 4.12  -> 753% APR on capital
+pool $20-50/day: n= 47  our share median 68.3%  $/day median 20.00 mean 17.62  -> 3215% APR on capital
+pool $50-100/day: n= 49  our share median 69.9%  $/day median 35.55 mean 32.18  -> 5873% APR on capital
+pool $100-300/day: n= 33  our share median 37.9%  $/day median 40.66 mean 45.70  -> 8341% APR on capital
+pool $300-inf/day: n=  4  our share median 6.8%  $/day median 33.99 mean 69.82  -> 12741% APR on capital
+
+best opportunities in sample:
+  $209.98/day  share 42%  pool $500  spread 0.020  Will the Tesla Roadster fly for 1s+?
+  $137.61/day  share 98%  pool $140  spread 0.040  Will the highest temperature in Seoul (Incheon) be 20°C on October 15?
+  $118.00/day  share 100%  pool $118  spread 0.120  Will the highest temperature in Munich be 18°C or higher on October 15
+  $110.51/day  share 97%  pool $114  spread 0.040  Will the highest temperature in Wellington be 16°C on October 15?
+  $100.00/day  share 100%  pool $100  spread 0.320  S&P 500 (SPX) Opens Up or Down on October 15?
+  $100.00/day  share 100%  pool $100  spread 0.040  S&P 500 (SPX) Up or Down on October 15?
+  $ 93.74/day  share 43%  pool $218  spread 0.010  Will the highest temperature in Shanghai be 24°C on October 15?
+  $ 92.00/day  share 90%  pool $102  spread 0.040  Will the highest temperature in Singapore be 32°C on October 15?
+  $ 89.14/day  share 80%  pool $111  spread 0.010  Will the highest temperature in Milan be 21°C on October 15?
+  $ 84.40/day  share 45%  pool $187  spread 0.020  Will the highest temperature in Seoul (Incheon) be 21°C on October 15?
