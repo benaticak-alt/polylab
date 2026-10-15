@@ -3,3 +3,5 @@ __pycache__/
 rewards/*.json
 .env
 .env.*
+rewards/mm_state.json*
+rewards/mm_log.jsonl
